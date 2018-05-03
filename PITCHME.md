@@ -9,6 +9,7 @@
 空手は琉球起源の伝統的な武道です
 
 琉球は今日の沖縄です
+<img src="https://cdn2.ettoday.net/images/1399/d1399191.jpg">
 
 ---
 ## 唐（から）手＝空（から）手
@@ -25,6 +26,9 @@
 空手の多くの流派があります
 
 剛柔流、松濤館流、和道流、糸東流、劉衛流を含む
+<img src="https://5.share.photo.xuite.net/gt_professional/1503be8/9844710/437375746_m.jpg">
+<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ2FBnepaTxPBpgM7ToQSahrq7Hgb77XN4Y9Cv9TMmCEKSbSlUx">
+<img src="https://5.share.photo.xuite.net/gt_professional/1503b6b/9844710/437382021_m.jpg">
 
 ---
 ## 型（かた）と組手（くみて）
@@ -37,10 +41,12 @@
 型とは、一人で演武する空手の練習形式です
 
 首里手、泊手、那覇手に分け
+<img src="http://the-martial-way.com/wp-content/uploads/2015/03/IFK-Kyokushin.jpg">
 
 ---
 ## 組手（くみて）
 組手は、主に二人で相対しておこなう練習形式です
+<img src="">
 
 ---
 
