@@ -54,6 +54,7 @@
 <img src="https://www.wkf.net/imagenes/noticias/041517_k1pl_rabat04.jpg">
 
 ---
+<img src="https://github.com/httpak/GITPITCH/blob/master/Junior%20Belt%20Competition.jpeg">
 
 ---
 ## 帯（おび）
