@@ -76,3 +76,5 @@
 ---
 <img src="https://cdn-images-1.medium.com/max/960/1*QuIgQnRdvXFxv_RCpQWAiQ.jpeg">
 
+---?image=path/to/image.file&size=auto
+
