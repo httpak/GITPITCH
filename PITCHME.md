@@ -54,7 +54,7 @@
 <img src="https://www.wkf.net/imagenes/noticias/041517_k1pl_rabat04.jpg">
 
 ---
-<img src="https://drive.google.com/file/d/1NnfuSuIIC84oc3md_8NRn0Zf1gsVMzCN/view?usp=sharing">
+<img src="https://ibb.co/cT9p8n">
 
 ---
 ## 帯（おび）
